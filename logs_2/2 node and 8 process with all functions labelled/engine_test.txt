@@ -1,0 +1,100 @@
+[Coeus engine] [: @ ] [info]  rank 0
+[Coeus engine] [: @ ] [info]  comm size 1
+[Coeus engine] [: @ ] [info]  Process Id 165714
+[Coeus engine] [: @ ] [info]  initial Done 3, rank 0
+[Coeus engine] [: @ ] [info]  Hostname: ares-comp-23
+[Coeus engine] [: @ ] [info]  rank: 0 Process: 165714 is running on ares-comp-23 
+[Coeus engine] [: @ ] [info]  rank 0
+[Coeus engine] [: @ ] [info]  comm size 1
+[Coeus engine] [: @ ] [info]  Process Id 165716
+[Coeus engine] [: @ ] [info]  initial Done 3, rank 0
+[Coeus engine] [: @ ] [info]  Hostname: ares-comp-23
+[Coeus engine] [: @ ] [info]  rank: 0 Process: 165716 is running on ares-comp-23 
+[Coeus engine] [: @ ] [info]  rank 0 with name hermes and mode Mode::Write
+[Coeus engine] [: @ ] [info]  Debug: initial done rank: 0
+[Coeus engine] [: @ ] [info]  finish IncrementCurrentStep, rank 0
+[Coeus engine] [: @ ] [info]  finish BeginStep and Hermes getBucket, rank 0
+[Coeus engine] [: @ ] [info]  rank 0 with name hermes and mode Mode::Write
+[Coeus engine] [: @ ] [info]  Debug: initial done rank: 0
+[Coeus engine] [: @ ] [info]  finish IncrementCurrentStep, rank 0
+[Coeus engine] [: @ ] [info]  finish BeginStep and Hermes getBucket, rank 0
+[Coeus engine] [: @ ] [info]  rank 0
+[Coeus engine] [: @ ] [info]  comm size 1
+[Coeus engine] [: @ ] [info]  Process Id 165717
+[Coeus engine] [: @ ] [info]  initial Done 3, rank 0
+[Coeus engine] [: @ ] [info]  Hostname: ares-comp-23
+[Coeus engine] [: @ ] [info]  rank: 0 Process: 165717 is running on ares-comp-23 
+[Coeus engine] [: @ ] [info]  rank 0
+[Coeus engine] [: @ ] [info]  comm size 1
+[Coeus engine] [: @ ] [info]  Process Id 165715
+[Coeus engine] [: @ ] [info]  initial Done 3, rank 0
+[Coeus engine] [: @ ] [info]  Hostname: ares-comp-23
+[Coeus engine] [: @ ] [info]  rank: 0 Process: 165715 is running on ares-comp-23 
+[Coeus engine] [: @ ] [info]  rank 0 with name hermes and mode Mode::Write
+[Coeus engine] [: @ ] [info]  Debug: initial done rank: 0
+[Coeus engine] [: @ ] [info]  finish IncrementCurrentStep, rank 0
+[Coeus engine] [: @ ] [info]  finish BeginStep and Hermes getBucket, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  rank 0 with name hermes and mode Mode::Write
+[Coeus engine] [: @ ] [info]  Debug: initial done rank: 0
+[Coeus engine] [: @ ] [info]  finish IncrementCurrentStep, rank 0
+[Coeus engine] [: @ ] [info]  finish BeginStep and Hermes getBucket, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Finish EndStep, rank 0
+[Coeus engine] [: @ ] [info]  Finish EndStep and delete Hermes->bkt, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Finish EndStep, rank 0
+[Coeus engine] [: @ ] [info]  Finish EndStep and delete Hermes->bkt, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Finish EndStep, rank 0
+[Coeus engine] [: @ ] [info]  Finish EndStep and delete Hermes->bkt, rank 0
+[Coeus engine] [: @ ] [info]  Put Done, rank 0
+[Coeus engine] [: @ ] [info]  Finish EndStep, rank 0
+[Coeus engine] [: @ ] [info]  Finish EndStep and delete Hermes->bkt, rank 0
