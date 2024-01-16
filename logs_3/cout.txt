@@ -1,0 +1,82 @@
+[Coeus engine] [: @ ] [info]  initial Done 3, rank 1046297                                                                                                                     [398/1990]
+Hostname: ares-comp-26                                                                                                                                                                   
+[Coeus engine] [: @ ] [info]  Hostname: ares-comp-26                                                                                                                                     
+Process 1046297rank 1046297 is running on ares-comp-26                                                                                                                                   
+[Coeus engine] [: @ ] [info]  rank: 1046297 Process: 1046297 is running on ares-comp-26                                                                                                  
+[Coeus engine] [: @ ] [info]  rank 1046297 with name hermes and mode Mode::Write                                                                                                         
+[Coeus engine] [: @ ] [info]  Debug: initial done rank: 1046297                                                                                                                          
+[Coeus engine] [: @ ] [info]  initial Done 3, rank 1046298                                                                                                                               
+Hostname: ares-comp-26                                                                                                                                                                   
+[Coeus engine] [: @ ] [info]  Hostname: ares-comp-26                                                                                                                                     
+Process 1046298rank 1046298 is running on ares-comp-26                                                                                                                                   
+[Coeus engine] [: @ ] [info]  rank: 1046298 Process: 1046298 is running on ares-comp-26                                                                                                  
+[Coeus engine] [: @ ] [info]  rank 1046298 with name hermes and mode Mode::Write                                                                                                         
+[Coeus engine] [: @ ] [info]  initial Done 3, rank 1046299                                                                                                                               
+[Coeus engine] [: @ ] [info]  Debug: initial done rank: 1046298                                                                                                                          
+Hostname: ares-comp-26                                                                                                                                                                   
+[Coeus engine] [: @ ] [info]  finish IncrementCurrentStep, rank 1046297                                                                                                                  
+[Coeus engine] [: @ ] [info]  Hostname: ares-comp-26                                                                                                                                     
+Process 1046299rank 1046299 is running on ares-comp-26                                                                                                                                   
+[Coeus engine] [: @ ] [info]  rank: 1046299 Process: 1046299 is running on ares-comp-26                                                                                                  
+/home/hxu40/spack/opt/spack/linux-ubuntu22.04-skylake_avx512/gcc-11.4.0/hermes-master-zgd7o3lrvr3zhvr32eqh2dlriqjyg22s/include/hermes_bucket_mdm/hermes_bucket_mdm.h:126 1046297 AsyncGetOrCreateTagConstruct Creating a tag step_1_rank1046297                                                                                                                                   [Coeus engine] [: @ ] [info]  initial Done 3, rank 1046300
+Hostname: ares-comp-26
+[Coeus engine] [: @ ] [info]  Hostname: ares-comp-26
+[Coeus engine] [: @ ] [info]  rank 1046299 with name hermes and mode Mode::Write
+Process 1046300rank 1046300 is running on ares-comp-26
+[Coeus engine] [: @ ] [info]  finish IncrementCurrentStep, rank 1046298
+[Coeus engine] [: @ ] [info]  Debug: initial done rank: 1046299
+/home/hxu40/spack/opt/spack/linux-ubuntu22.04-skylake_avx512/gcc-11.4.0/hermes-master-zgd7o3lrvr3zhvr32eqh2dlriqjyg22s/include/hermes_bucket_mdm/hermes_bucket_mdm.h:126 1046298 AsyncGetOrCreateTagConstruct Creating a tag step_1_rank1046298
+[Coeus engine] [: @ ] [info]  rank: 1046300 Process: 1046300 is running on ares-comp-26
+[Coeus engine] [: @ ] [info]  initial Done 3, rank 204829
+Hostname: ares-comp-25
+[Coeus engine] [: @ ] [info]  finish BeginStep and Hermes getBucket, rank 1046297
+[Coeus engine] [: @ ] [info]  Hostname: ares-comp-25
+[Coeus engine] [: @ ] [info]  rank 1046300 with name hermes and mode Mode::Write
+Process 204829rank 204829 is running on ares-comp-25
+[Coeus engine] [: @ ] [info]  Debug: initial done rank: 1046300
+[Coeus engine] [: @ ] [info]  finish BeginStep and Hermes getBucket, rank 1046298
+[Coeus engine] [: @ ] [info]  rank: 204829 Process: 204829 is running on ares-comp-25
+[Coeus engine] [: @ ] [info]  rank 204829 with name hermes and mode Mode::Write
+[Coeus engine] [: @ ] [info]  Debug: initial done rank: 204829
+[Coeus engine] [: @ ] [info]  finish IncrementCurrentStep, rank 1046299
+[Coeus engine] [: @ ] [info]  initial Done 3, rank 204830
+Hostname: ares-comp-25
+[Coeus engine] [: @ ] [info]  Hostname: ares-comp-25
+Process 204830rank 204830 is running on ares-comp-25
+/home/hxu40/spack/opt/spack/linux-ubuntu22.04-skylake_avx512/gcc-11.4.0/hermes-master-zgd7o3lrvr3zhvr32eqh2dlriqjyg22s/include/hermes_bucket_mdm/hermes_bucket_mdm.h:126 1046300 AsyncGetOrCreateTagConstruct Creating a tag step_1_rank1046300
+[Coeus engine] [: @ ] [info]  finish IncrementCurrentStep, rank 1046300
+/home/hxu40/spack/opt/spack/linux-ubuntu22.04-skylake_avx512/gcc-11.4.0/hermes-master-zgd7o3lrvr3zhvr32eqh2dlriqjyg22s/include/hermes_bucket_mdm/hermes_bucket_mdm.h:126 1046299 AsyncGetOrCreateTagConstruct Creating a tag step_1_rank1046299
+[Coeus engine] [: @ ] [info]  initial Done 3, rank 204827
+[Coeus engine] [: @ ] [info]  finish BeginStep and Hermes getBucket, rank 1046299
+[Coeus engine] [: @ ] [info]  rank 204830 with name hermes and mode Mode::Write
+[Coeus engine] [: @ ] [info]  Debug: initial done rank: 204830
+Hostname: ares-comp-25
+[Coeus engine] [: @ ] [info]  Hostname: ares-comp-25
+Process 204827rank 204827 is running on ares-comp-25
+[Coeus engine] [: @ ] [info]  rank: 204827 Process: 204827 is running on ares-comp-25
+[Coeus engine] [: @ ] [info]  finish IncrementCurrentStep, rank 204829
+[Coeus engine] [: @ ] [info]  rank 204827 with name hermes and mode Mode::Write
+[Coeus engine] [: @ ] [info]  Debug: initial done rank: 204827
+/home/hxu40/spack/opt/spack/linux-ubuntu22.04-skylake_avx512/gcc-11.4.0/hermes-master-zgd7o3lrvr3zhvr32eqh2dlriqjyg22s/include/hrun/api/hrun_client.h:269 1046297 AllocateBufferSafe Heap size for 1/1: 0
+[Coeus engine] [: @ ] [info]  initial Done 3, rank 204828
+Hostname: ares-comp-25
+/home/hxu40/spack/opt/spack/linux-ubuntu22.04-skylake_avx512/gcc-11.4.0/hermes-master-zgd7o3lrvr3zhvr32eqh2dlriqjyg22s/include/hrun/api/hrun_client.h:269 1046298 AllocateBufferSafe Heap size for 1/1: 0
+[Coeus engine] [: @ ] [info]  Hostname: ares-comp-25
+/home/hxu40/spack/opt/spack/linux-ubuntu22.04-skylake_avx512/gcc-11.4.0/hermes-master-zgd7o3lrvr3zhvr32eqh2dlriqjyg22s/include/hrun/api/hrun_client.h:269 1046299 AllocateBufferSafe Heap size for 1/1: 0
+[Coeus engine] [: @ ] [info]  finish IncrementCurrentStep, rank 204830
+/home/hxu40/spack/opt/spack/linux-ubuntu22.04-skylake_avx512/gcc-11.4.0/hermes-master-zgd7o3lrvr3zhvr32eqh2dlriqjyg22s/include/hermes_bucket_mdm/hermes_bucket_mdm.h:126 204829 AsyncGetOrCreateTagConstruct Creating a tag step_1_rank204829
+Process 204828rank 204828 is running on ares-comp-25
+[Coeus engine] [: @ ] [info]  rank: 204828 Process: 204828 is running on ares-comp-25
+[Coeus engine] [: @ ] [info]  finish BeginStep and Hermes getBucket, rank 1046300
+/home/hxu40/spack/opt/spack/linux-ubuntu22.04-skylake_avx512/gcc-11.4.0/hermes-master-zgd7o3lrvr3zhvr32eqh2dlriqjyg22s/include/hermes_bucket_mdm/hermes_bucket_mdm.h:126 204830 AsyncGetOrCreateTagConstruct Creating a tag step_1_rank204830
+[Coeus engine] [: @ ] [info]  rank 204828 with name hermes and mode Mode::Write
+[Coeus engine] [: @ ] [info]  Debug: initial done rank: 204828
+[Coeus engine] [: @ ] [info]  finish BeginStep and Hermes getBucket, rank 204830
+/home/hxu40/spack/opt/spack/linux-ubuntu22.04-skylake_avx512/gcc-11.4.0/hermes-master-zgd7o3lrvr3zhvr32eqh2dlriqjyg22s/include/hrun/api/hrun_client.h:269 1046300 AllocateBufferSafe Heap size for 1/1: 160
+[Coeus engine] [: @ ] [info]  Put Done, rank 1046297
+[Coeus engine] [: @ ] [info]  finish IncrementCurrentStep, rank 204827
+[Coeus engine] [: @ ] [info]  Put Done, rank 1046298
+[Coeus engine] [: @ ] [info]  Put Done, rank 1046299
+/home/hxu40/spack/opt/spack/linux-ubuntu22.04-skylake_avx512/gcc-11.4.0/hermes-master-zgd7o3lrvr3zhvr32eqh2dlriqjyg22s/include/hrun/api/hrun_client.h:269 1046297 AllocateBufferSafe Heap size for 1/1: 240
+[Coeus engine] [: @ ] [info]  finish IncrementCurrentStep, rank 204828
+/home/hxu40/spack/opt/spack/linux-ubuntu22.04-skylake_avx512/gcc-11.4.0/hermes-master-zgd7o3lrvr3zhvr32eqh2dlriqjyg22s/include/hrun/api/hrun_client.h:269 1046298 AllocateBufferSafe Heap size for 1/1: 320
